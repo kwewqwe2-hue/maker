@@ -1,4 +1,5 @@
 PyQt5==5.15.10
+PyQtWebEngine==5.15.6
 requests==2.31.0
 Pillow==10.2.0
 matplotlib==3.8.2
